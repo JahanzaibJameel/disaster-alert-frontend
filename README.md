@@ -13,9 +13,6 @@
 
 </div>
 
-<p align="center">
-  <img src="./public/screenshot.png" alt="Dashboard preview" width="800" />
-</p>
 
 ---
 
