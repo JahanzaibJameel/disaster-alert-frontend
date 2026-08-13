@@ -13,7 +13,6 @@
 
 </div>
 
-
 ---
 
 ## ✨ Why This Project?
