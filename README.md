@@ -236,7 +236,7 @@ disaster-alert-frontend/
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/disaster-alert-frontend.git
+git clone https://github.com/JahanzaibJameel/disaster-alert-frontend.git
 
 cd disaster-alert-frontend
 
